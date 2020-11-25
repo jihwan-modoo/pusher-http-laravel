@@ -37,9 +37,6 @@
         "preferred-install": "dist"
     },
     "extra": {
-        "branch-alias": {
-            "dev-master": "4.2-dev"
-        },
         "laravel": {
             "providers": [
                 "Pusher\\Laravel\\PusherServiceProvider"
